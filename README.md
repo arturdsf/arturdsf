@@ -1,16 +1,55 @@
-## Hi there 👋
+## Olá Artur dos Santos Flores 👋
 
-<!--
-**arturdsf/arturdsf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Programming Student.
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning, PHP, C++, C#, C, JavaScript, Python.
+  
+- 💬 Contac: Artur.dos.santos.flores@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: I love Games.
+
+### Soft Skills
+
+Communication Skills:
+
+-Ability to express ideas clearly and effectively, both verbally and in writing
+
+-Active listening and empathy
+
+-Presentation and public speaking skills
+
+
+Teamwork and Collaboration:
+
+-Ability to work well with others
+
+-Conflict resolution and negotiation skills
+
+-Adaptability and flexibility
+
+
+Leadership and Influence:
+
+-Motivating and inspiring others
+
+-Emotional intelligence and self-awareness
+
+-Coaching and mentoring skills
+
+
+Adaptability and Continuous Learning:
+
+-Willingness to learn and grow
+
+-Openness to feedback and change
+
+-Curiosity and lifelong learning mindset
+
+### Hard Skills
+
+<div style = "display:inline_block;">
+ <img src = "https://github.com/user-attachments/assets/4b82f83f-23cf-473c-bad3-7a51d6311d13"/>
+
+ <img src = "https://github.com/user-attachments/assets/83ed9515-91fb-4db9-a5e6-49ff3846eb2e"/>
+</div>
+

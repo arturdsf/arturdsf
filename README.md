@@ -48,7 +48,6 @@ Adaptability and Continuous Learning:
 ### Hard Skills
 
 <div style = "display:inline_block;">
- <img src = "https://github.com/user-attachments/assets/4b82f83f-23cf-473c-bad3-7a51d6311d13"/>
 
  <img src = "https://github.com/user-attachments/assets/83ed9515-91fb-4db9-a5e6-49ff3846eb2e"/>
 </div>
